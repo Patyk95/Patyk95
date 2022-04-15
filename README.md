@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P.rajtarowski@gmail.com
+- 👋 Hi, I’m Patryk - @p.rajtarowski@gmail.com
 - 👀 I’m interested in data scientist,
 - 🌱 I’m currently learning english and programming-python sql, pl-sql
 - 💞️ I’m looking to collaborate on ...
